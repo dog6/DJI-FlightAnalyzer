@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+.vs/
+packages/
+*.nupkg
+*.vtt
+*.mp4
+*.png
