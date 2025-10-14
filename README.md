@@ -1,5 +1,5 @@
 ## DJI FlightAnalyzer ✈️
-A WPF application that lets you get a more in-depth look at flights flown with DJI drones. This app has the potential to support any drone that stores telemetry data in the WebVTT format within the recorded .MP4 file.
+A WPF application that lets you get an in-depth look at flights you've flown with DJI drones. This app has the potential to support any drone that stores telemetry data in the WebVTT format within the recorded .MP4 file.
 
 ## Project Goals 🎯
 - Access and review telemetry data embedded in the WebVTT format within the video file.
